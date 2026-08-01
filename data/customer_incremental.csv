@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,city,state,phone,segment,signup_date
+CUST-1003,Rohan,Gupta,rohan.gupta@example.com,Bengaluru,Karnataka,+91-9739587039,Corporate,2022-04-13
+CUST-1007,Arjun,Singh,arjun.singh@example.com,Delhi,Delhi,+91-9770291817,Consumer,2023-08-17
+CUST-1012,Kavya,Chopra,kavya.chopra@example.com,Pune,Maharashtra,+91-9789089901,Home Office,2022-04-22
+CUST-1016,Pooja,Desai,pooja.desai@example.com,Chennai,Tamil Nadu,+91-9747338124,Corporate,2023-08-11
+CUST-1021,Amit,Agarwal,amit.agarwal@example.com,Mumbai,Maharashtra,+91-9710872248,Consumer,2022-04-16
+CUST-1026,Rajat,Reddy,rajat.reddy26@example.com,Kolkata,West Bengal,+91-9655667651,Corporate,2026-07-15
+CUST-1027,Karan,Singh,karan.singh27@example.com,Hyderabad,Telangana,+91-9623718431,Consumer,2026-07-15
+CUST-1028,Aditya,Nair,aditya.nair28@example.com,Hyderabad,Telangana,+91-9656164955,Home Office,2026-07-15
+CUST-1029,Vikram,Verma,vikram.verma29@example.com,Ahmedabad,Gujarat,+91-9681971316,Consumer,2026-07-15
+CUST-1030,Aditya,Gupta,aditya.gupta30@example.com,Jaipur,Rajasthan,+91-9649349722,Home Office,2026-07-15

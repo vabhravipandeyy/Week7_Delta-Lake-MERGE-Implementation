@@ -1,0 +1,28 @@
+customer_id,first_name,last_name,email,city,state,phone,segment,signup_date
+CUST-1001,Aarav,Sharma,aarav.sharma@example.com,Delhi,Delhi,+91-9895822412,Corporate,2023-02-11
+CUST-1002,Priya,Verma,priya.verma@example.com,Bengaluru,Karnataka,+91-9824942603,Home Office,2024-03-12
+CUST-1003,Rohan,Gupta,rohan.gupta@example.com,Pune,Maharashtra,+91-9813356886,Consumer,2022-04-13
+CUST-1004,Simran,Nair,simran.nair@example.com,Chennai,Tamil Nadu,,Corporate,2023-05-14
+CUST-1005,Karan,Iyer,karan.iyer@example.com,Hyderabad,Telangana,+91-9842868828,Home Office,2024-06-15
+CUST-1006,Neha,Reddy,neha.reddy@example.com,Kolkata,West Bengal,+91-9839958838,Consumer,2022-07-16
+CUST-1007,Arjun,Singh,arjun.singh@example.com,Ahmedabad,Gujarat,+91-9828728463,Corporate,2023-08-17
+CUST-1008,Diya,Patel,diya.patel@example.com,Jaipur,Rajasthan,+91-9823756669,Home Office,2024-09-18
+CUST-1009,Vikram,Mehta,vikram.mehta@example.com,Dehradun,Uttarakhand,+91-9883197857,Consumer,2022-01-19
+CUST-1010,Ananya,Kapoor,ananya.kapoor@example.com,Mumbai,Maharashtra,+91-9821668732,Corporate,2023-02-20
+CUST-1011,Rahul,Joshi,rahul.joshi@example.com,Delhi,Delhi,+91-9889254563,Home Office,2024-03-21
+CUST-1012,Kavya,Chopra,kavya.chopra@example.com,Bengaluru,Karnataka,,Consumer,2022-04-22
+CUST-1013,Aditya,Malhotra,aditya.malhotra@example.com,Pune,Maharashtra,+91-9814265799,Corporate,2023-05-23
+CUST-1014,Isha,Rao,isha.rao@example.com,Chennai,Tamil Nadu,+91-9813999315,Home Office,2024-06-24
+CUST-1015,Manish,Bhatt,manish.bhatt@example.com,Hyderabad,Telangana,+91-9822575562,Consumer,2022-07-10
+CUST-1016,Pooja,Desai,pooja.desai@example.com,Kolkata,West Bengal,+91-9839345092,Corporate,2023-08-11
+CUST-1017,Siddharth,Kulkarni,siddharth.kulkarni@example.com,Ahmedabad,Gujarat,+91-9841227216,Home Office,2024-09-12
+CUST-1018,Riya,Bose,riya.bose@example.com,Jaipur,Rajasthan,+91-9877827638,Consumer,2022-01-13
+CUST-1019,Nikhil,Trivedi,nikhil.trivedi@example.com,Dehradun,Uttarakhand,,Corporate,2023-02-14
+CUST-1020,Tanya,Saxena,tanya.saxena@example.com,Mumbai,Maharashtra,+91-9813561597,Home Office,2024-03-15
+CUST-1021,Amit,Agarwal,amit.agarwal@example.com,Delhi,Delhi,+91-9885329037,Consumer,2022-04-16
+CUST-1022,Sneha,Bhatia,sneha.bhatia@example.com,Bengaluru,Karnataka,+91-9836687537,Corporate,2023-05-17
+CUST-1023,Varun,Menon,varun.menon@example.com,Pune,Maharashtra,+91-9897226012,Home Office,2024-06-18
+CUST-1024,Meera,Pillai,meera.pillai@example.com,Chennai,Tamil Nadu,+91-9883140807,Consumer,2022-07-19
+CUST-1025,Rajat,Chatterjee,rajat.chatterjee@example.com,Hyderabad,Telangana,+91-9866306997,Corporate,2023-08-20
+CUST-1006,Neha,Reddy,neha.reddy@example.com,Kolkata,West Bengal,+91-9839958838,Consumer,2022-07-16
+CUST-1015,Manish,Bhatt,manish.bhatt@example.com,Hyderabad,Telangana,+91-9822575562,Consumer,2022-07-10
